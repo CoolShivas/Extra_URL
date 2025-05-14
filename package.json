@@ -1,0 +1,21 @@
+{
+  "name": "extra_url",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "dev": "node --watch app.js", 
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoolShivas/Extra_URL.git"
+  },
+  "author": "Shivaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoolShivas/Extra_URL/issues"
+  },
+  "homepage": "https://github.com/CoolShivas/Extra_URL#readme",
+  "description": ""
+}
